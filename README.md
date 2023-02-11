@@ -12,7 +12,7 @@ https://saurav-hacker-news.netlify.app
 
 ### Github link
 
-https://github.com/sauravvsonu/hacker_news
+https://github.com/ShantanuSSR/HackerNews-Clone
 
 Thanks for visiting
 Welcome Again
