@@ -8,7 +8,7 @@ In the project you can view by.
 
 ### Web Hosted link
 
-https://saurav-hacker-news.netlify.app
+https://bit.ly/shantanu_news_app
 
 ### Github link
 
